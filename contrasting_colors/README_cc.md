@@ -29,23 +29,13 @@ The colors are dark-ish so that they will work against a white or a light grey b
 
 From [this StackExchange post](http://graphicdesign.stackexchange.com/questions/3682/large-color-set-for-coloring-of-many-datasets-on-a-plot)
 
-
 ![A.G. 24](alan_gilbertsons_24_colors_without_grey.png)
 
-### 3. More pastel-y ColorBrewer Paired
+### 3. More pastel-y ColorBrewer Paired ###
 
-<<<<<<< HEAD
 I modified the ColorBrewer Paired set to be more pastel-like
-=======
-12 contrasting:
-![My 12](contrasting_colors.png)
->>>>>>> 2058b1e4f5a3aada8f2ac94e130c37af9632a196
 
     ['#a6cee3', '#5c9dc9', '#b2df8a', '#6accb3', '#fb9a99', '#e56969',
      '#fdbf6f', '#ff7f00', '#c397db', '#a868c4', '#e5e5a0', '#c47a52']
 
-<<<<<<< HEAD
 ![Paired Pastel](paired pastel.png)
-=======
-![My 12](alan_gilbertsons_24_colors_without_grey.png)
->>>>>>> 2058b1e4f5a3aada8f2ac94e130c37af9632a196
