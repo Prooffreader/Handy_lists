@@ -38,4 +38,4 @@ I modified the ColorBrewer Paired set to be more pastel-like
     ['#a6cee3', '#5c9dc9', '#b2df8a', '#6accb3', '#fb9a99', '#e56969',
      '#fdbf6f', '#ff7f00', '#c397db', '#a868c4', '#e5e5a0', '#c47a52']
 
-![Paired Pastel](paired pastel.png)
+![Paired Pastel](cbpairedpastel.png)
