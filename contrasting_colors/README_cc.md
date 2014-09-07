@@ -13,8 +13,8 @@ Also, Alan Gilbertson's 24 colors (28 with grey) from [this StackExchange post](
 PNGs:
 
 12 contrasting:
-![My 12](contrasting_colors/contrasting_colors.png)
+![My 12](contrasting_colors.png)
 
 Alan Gilbertson's 24 (without grey, which would make 28):
 
-![My 12](contrasting_colors/alan_gilbertsons_24_colors_without_grey.png)
+![My 12](alan_gilbertsons_24_colors_without_grey.png)
