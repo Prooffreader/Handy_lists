@@ -25,7 +25,7 @@ class ColorCollection:
      '#bababa', '#878787', '#545454']
         self.cbpastel = ['#a6cee3', '#5c9dc9', '#b2df8a', '#6accb3', '#fb9a99', '#e56969',
      '#fdbf6f', '#ff7f00', '#c397db', '#a868c4', '#e5e5a0', '#c47a52']
-         self.tableau10 = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#7f7f7f', '#bcbd22', '#17becf']
+        self.tableau10 = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#7f7f7f', '#bcbd22', '#17becf']
         self.tableau20 = ['#1f77b4', '#aec7e8', '#ff7f0e', '#ffbb78', '#2ca02c', '#98df8a', '#d62728', '#ff9896', '#9467bd', '#c5b0d5', '#8c564b', '#c49c94', '#e377c2', '#f7b6d2', '#7f7f7f', '#c7c7c7', '#bcbd22', '#dbdb8d', '#17becf', '#9edae5']
         self.dvch_pair = ['#5884b3', '#b6cee5', '#cc6686', '#e5b5c5', '#e87b70', '#f2cec1', '#e5cf6c', '#f9ebaa', '#91be64', '#cee5b5', '#5bbe94', '#b6e4d1']
         self.dvch_bwr = ['#3775b3', '#6792c4', '#94b2d3', '#c4d2e2', '#f1f1f1', '#e9cdd2', '#e0a9b0', '#d68390', '#cc5f6f']
